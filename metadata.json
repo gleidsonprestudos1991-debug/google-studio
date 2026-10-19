@@ -1,0 +1,6 @@
+{
+  "name": "Sistema de Login",
+  "description": "Aplicativo web completo de autenticação e cadastro de usuários com criptografia segura, validação, painel protegido e guia de sincronização.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
